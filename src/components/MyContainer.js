@@ -1,3 +1,3 @@
-import React, { MyList } from 'react';
+import MyList from "./MyList";
 
 export default MyContainer;
