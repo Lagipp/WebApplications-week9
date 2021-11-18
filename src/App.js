@@ -1,7 +1,8 @@
 import logo from './logo.svg';
 import './App.css';
-import MyList from "./components/MyList.js";
-import MyContainer from "./components/MyContainer.js";
+import MyList from "./components/MyList";
+import MyContainer from "./components/MyContainer";
+import { useState } from 'react';
 
 function App() {
   return (
@@ -10,8 +11,8 @@ function App() {
         Hello World!
       </h1>
       <h3>
-        <MyContainer></MyContainer>
-        <MyList></MyList>
+        <MyContainer />
+        <MyList />
       </h3>
     </div>
   );
