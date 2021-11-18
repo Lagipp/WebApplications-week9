@@ -4,7 +4,7 @@ import useState from 'react';
 const MyContainer = () => {
     return (
         <div>
-            
+            <MyList />
         </div>
     )
 }
