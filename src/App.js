@@ -11,7 +11,6 @@ function App() {
       </h1>
       <h3>
         <MyContainer />
-        <MyList />
       </h3>
     </div>
   );
