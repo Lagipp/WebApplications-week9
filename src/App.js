@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import MyList from "./components/MyList";
 import MyContainer from "./components/MyContainer";
